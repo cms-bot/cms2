@@ -60,7 +60,6 @@
 
   ~~hi~~
 - 转到cms
-![]
 (https://github.com/cms-bot/cms2/blob/master/cms.md)
 
   
