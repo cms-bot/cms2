@@ -24,8 +24,8 @@
 
 - 这是一个视频链接
 
-   ![]
-    (https://www.bilibili.com/video/BV1PE411j7Mv?from=search&seid=18205216624109999311)
+   
+    https://www.bilibili.com/video/BV1PE411j7Mv?from=search&seid=18205216624109999311
 
 
 
@@ -59,8 +59,8 @@
   hi
 
   ~~hi~~
-- 转到cms
-(https://github.com/cms-bot/cms2/blob/master/cms.md)
+- 转到cms    
+https://github.com/cms-bot/cms2/blob/master/cms.md
 
   
 
