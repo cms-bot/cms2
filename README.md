@@ -12,7 +12,7 @@
 
   
 
-  ![](E:\GitHub\Typora\cms\1.jpg)
+  ![](https://github.com/cms-bot/cms2/blob/master/1.jpg)
 
 
 
